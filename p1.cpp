@@ -1,6 +1,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
+// Ari-20250108H
 double E_promedio(int *energias)
 {
     double suma = 0;
